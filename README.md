@@ -1,5 +1,4 @@
-# Fants
-IMG_20230627_115116.jpg
+#Fants
 #### CARA INSTALL SCRIPT:
  download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_117.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
  ```
