@@ -19,4 +19,3 @@ git clone https://github.com/Ulilfants/Fants
  cd Fants
 git pull
 python Fantss.py
-
