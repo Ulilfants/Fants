@@ -12,11 +12,8 @@ pip install requests
 pip install rich
 pip install mechanize
 git clone https://github.com/Ulilfants/Fants
- ```
- oke sekarang script sudah terinstall
-#### CARA MENJALANKAN SCRIPT:
- sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah.
- 
- cd Fants
+cd Fants
 git pull
 python Fantss.py
+ ```
+ oke sekarang script sudah terinstall
